@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ordenador",
+    "precio": 999.99
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor",
+    "precio": 200.99
+  },
+  {
+    "id": 3,
+    "nombre": "Memoria RAM",
+    "precio": 2000
+  }
+]
